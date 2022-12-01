@@ -24,8 +24,8 @@ O treinamento foi realizado no google colab utilizando a YOLO_v3 e o código est
 # Teste do Modelo
 O teste do modelo foi realizado com o script "yolo_object_detection.py" e em todas as 20 imagens utilizadas como teste foram detectadas, os resultados estão na pasta "teste".
 
-![image](test/IMG_20221130_205821.jpg)
-![image](test/IMG_20221130_210223.jpg)
-![image](test/IMG_20221130_205754.jpg)
-![image](test/IMG_20221130_210433.jpg)
-![image](test/IMG_20221130_210235.jpg)
+![image](test/detected/IMG_20221130_205821.jpg)
+![image](test/detected/IMG_20221130_210223.jpg)
+![image](test/detected/IMG_20221130_205754.jpg)
+![image](test/detected/IMG_20221130_210433.jpg)
+![image](test/detected/IMG_20221130_210235.jpg)
